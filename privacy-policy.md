@@ -1,7 +1,7 @@
 ## By using this Discord Bot, you hereby consent to our Privacy Policy and agree to its terms.
 
 ### Information we collect
-Server IDs and User IDs
+Server IDs, User IDs, and Message Content
 
 ### Why we need your information
 We need the information described above to provide the basic services we offer to you.
