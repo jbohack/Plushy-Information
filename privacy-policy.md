@@ -12,7 +12,7 @@ We need the information described above to provide the basic services we offer t
 - Improve, personalize, and expand our Discord Bot
 - Understand and analyze how you use our Discord Bot
 - Develop new products, services, features, and functionality
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to Ichigo, and for marketing and promotional purposes
+- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to Plushy, and for marketing and promotional purposes
 - Find and prevent fraud
 <br>WE DO NOT SHARE ANY OF THE STORED INFORMATION WITH ANY THIRD PARTIES
 
